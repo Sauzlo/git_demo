@@ -1,0 +1,8 @@
+mkdir (make directory) = "Create new directory"
+ls (list) = "List contents of current directory"
+cd = "Change directory" OR cd .. = "Go to parent directory" OR cd ~ = "Go to home directory"
+pwd (print working directory) = "Display path of current location"
+ni (new item) = "Create new file in current directory"
+mv (move) = "Move file or folder to a different directory or change its name"
+code = "Open visual studio code (with file name if desired)"
+source = "Run specified file"
